@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Path! 👋
+# Hi there, I'm Ayush Pathak! 👋
 
 <div align="center">
   
