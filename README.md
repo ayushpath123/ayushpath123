@@ -31,8 +31,7 @@ const ayushPathak = {
     currentlyBuilding: "AI-powered applications with modern web technologies",
     funFact: "I reduced API response time from 1.8s to 400ms! ⚡",
     contactInfo: {
-        email: "22bds044@iiitdwd.ac.in",
-        phone: "+91 9316568042"
+        email: "22bds044@iiitdwd.ac.in"
     }
 };
 ```
