@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Data+Science+%26+AI+Student+%40+IIIT+Dharwad;Building+the+Future+with+Code+%26+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+the+Future+with+Code+%26+Intelligence)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -216,13 +216,6 @@ const currentFocus = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
-</div>
 
 ---
 
@@ -240,33 +233,7 @@ CSS          38 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-<div align="center">
-  
-### 🎵 Currently Coding To
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
-
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushpath123&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  
-  ### ⚡ Fun Facts: 
-  
-  🎯 *"I turned 1.8 seconds into 400 milliseconds – that's not just optimization, that's time travel!"*
-  
-  🚀 *"From 1000+ lines of legacy code to modern TypeScript architecture – because clean code is happy code!"*
-  
-  🤖 *"Building AI that understands natural language better than my college professors understand my handwriting!"*
-  
-  ---
-  
-  <sub>💙 **Open to collaborations on AI projects and full-stack applications!**</sub>
-  <br>
-  <sub>⭐ **If you find my work interesting, consider giving it a star!**</sub>
-</div>
 
 ---
 
